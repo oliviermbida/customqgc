@@ -1,3 +1,3 @@
 # UI Design
 
-![Custom Build Screenshot](GC.png)
+![Custom Build Screenshot](GC.jpeg)
